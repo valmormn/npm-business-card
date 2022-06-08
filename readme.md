@@ -1,4 +1,4 @@
 # Publishing to npm
 
-This is my bussiness card hosted on [NPM](https://www.npmjs.com/package/valmor)
+This is my business card hosted on [NPM](https://www.npmjs.com/package/valmor)
 

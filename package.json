@@ -10,6 +10,12 @@
     "card": "node ./scripts/index.mjs"
   },
   "author": "Valmor Nascimento",
+  "keywords": [
+    "valmor",
+    "business",
+    "card",
+    "valmor.dev"
+  ],
   "license": "MIT",
   "dependencies": {
     "boxen": "^6.2.1",
