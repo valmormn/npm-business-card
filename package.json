@@ -1,6 +1,6 @@
 {
   "name": "valmor",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "valmor's app published to npm",
   "main": "index.js",
   "bin": {
@@ -11,12 +11,7 @@
     "fire": "node ./scripts/doom-fire.mjs"
   },
   "author": "Valmor Nascimento",
-  "keywords": [
-    "valmor",
-    "business",
-    "card",
-    "valmor.dev"
-  ],
+  "keywords": ["valmor", "business", "card", "valmor.dev"],
   "license": "MIT",
   "dependencies": {
     "boxen": "^6.2.1",
