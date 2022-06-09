@@ -7,7 +7,8 @@
     "valmor": "./scripts/index.mjs"
   },
   "scripts": {
-    "card": "node ./scripts/index.mjs"
+    "start": "node ./scripts/index.mjs",
+    "fire": "node ./scripts/doom-fire.mjs"
   },
   "author": "Valmor Nascimento",
   "keywords": [
