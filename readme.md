@@ -1,8 +1,8 @@
-# Publishing to npm
+# Business Card hosted on NPM
 
 This is my business card hosted on [NPM](https://www.npmjs.com/package/valmor)
 
-You can run this just by typingYou can run this just by typing `npx valmor` on your terminal.
+You can run this just by typing `npx valmor` on your terminal.
 
 Here is how it looks like:
 

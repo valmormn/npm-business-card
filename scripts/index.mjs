@@ -13,7 +13,7 @@ const boxenOptions = {
 };
 
 const intro = chalk.bold(
-  "Hi there! I'm Valmor. I'm an engineer, software developer and tech savvy who loves to learn and building things.\n\n",
+  "Hi there! I'm Valmor. I'm an engineer, software developer and tech savvy who loves to learn and build things.\n\n",
   "If you came all this way down here perhaps we should talk. You can find me on: \n\n"
 );
 
