@@ -1,6 +1,6 @@
 {
   "name": "valmor",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "valmor's app published to npm",
   "main": "index.js",
   "bin": {
