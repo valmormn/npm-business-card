@@ -7,3 +7,5 @@ You can run this just by typing `npx valmor` on your terminal.
 Here is how it looks like:
 
 ![Command result preview](./preview.png "a title")
+
+.
